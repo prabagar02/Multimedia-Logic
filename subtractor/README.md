@@ -1,2 +1,2 @@
-## Multimedia-Logic Subtractor
+## Multimedia Logic Subtractor
 Using subtracors to comapare two inputs.
